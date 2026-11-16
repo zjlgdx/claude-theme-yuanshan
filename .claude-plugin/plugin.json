@@ -1,0 +1,6 @@
+{
+  "name": "yuanshan",
+  "version": "0.1.0",
+  "description": "遠山 Yuanshan: five animated, eye-friendly backdrops for Claude (snow, bamboo, sea, rain, far mountains) that react to the session.",
+  "types": "./types/index.d.ts"
+}
